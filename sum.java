@@ -1,5 +1,8 @@
 public class sum {
-    public static void main(String[] args){ int a = 5;
-
-    int b = 6; System.out.println("The sum is " + (a + b)); }
+    public static void main(String[] args) {
+        int a = 5;
+        int b = 6;
+        System.out.println("The sum is " + (a + b));
+        System.out.println("This is the sum class");
+    }
 }
